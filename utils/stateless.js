@@ -60,6 +60,4 @@ class Stateless {
         state.mod = default_data.mod;
         localStorage.setItem(storage_key, JSON.stringify(state));
     }
-    
-    //super extends class test
 }
