@@ -4,7 +4,7 @@
 ### Installation
 1. Download Tampermonkey or Greasemonkey for Firefox or Chromiumbased browsers(chrome).
 2. Go to the [Greasyfork](https://greasyfork.org/en/scripts/397058-levi-ui-2-hordes-io "Greasyfork") script page to start the installation
-3. Refresh your browser of choice and go play hordes.io
+3. Refresh your browser and go play hordes.io
 
 ### Main features
 - Window-Dragging by the header of most ui elements.
