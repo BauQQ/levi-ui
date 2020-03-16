@@ -1,4 +1,6 @@
 # Levi UI 2 - Hordes.io Mod
+![Release](https://img.shields.io/badge/release-v2.1.0-blue "Release")
+
 ### Installation
 1. Download Tampermonkey or Greasemonkey for Firefox or Chromiumbased browsers(chrome).
 2. Go to the [Greasyfork](https://greasyfork.org/en/scripts/397058-levi-ui-2-hordes-io "Greasyfork") script page to start the installation
@@ -20,6 +22,7 @@
 - Simple map rouding.
 - Simple map centering.
 
-### Special thanks
+
+### Special thanks to
 
 SaltyAlex, [timebomb0](https://github.com/timebomb0 "timebomb0") , [Dek](https://github.com/dekdevy "Dek")
