@@ -73,3 +73,10 @@ class Mod{
         });
     }
 }
+
+/*
+ * The only time we run any functions outside
+ * of a class is here. And only to start the mod.
+ */
+const mod = new Mod();
+mod.run();
