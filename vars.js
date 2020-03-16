@@ -9,7 +9,7 @@ jQuery.noConflict();
 
 
 // Mod Constants 
-const devs = ["luffas"];
+const devs = ["luffas","saltyalex"];
 //Local storage key
 const storage_key = localStorage.key("levi-ui-two-custom-luffa-key-dev");  
 //version number
